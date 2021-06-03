@@ -58,6 +58,8 @@ $ python2 FMBF.py
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Fall-Xavier)
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/siti.khatijah.1029)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/ziiro24/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285229323951?text=Asalamualaikum+bang)
 
-###Notice : -Cek Hasil Crack Dalam 7 Hari
-            -Usahakan Gunakan Data Saat Crack
-            -Jangan Ubah Apapun Daripada Error
+#### Notice 
+```bash 
+-Cek Hasil Crack Dalam 7 Hari
+-Usahakan Gunakan Data Saat Crack
+-Jangan Ubah Apapun Daripada Error
