@@ -51,7 +51,7 @@ $ git clone https://github.com/Fall-Xavier/FMBF
 #### Run script
 ```bash
 $ cd FMBF
-$ python2 FMBF.py
+$ python2 run.py
 ```
 #### MY SOCIAL MEDIA
 
