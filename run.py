@@ -755,4 +755,5 @@ def cek_ingfo():
     
 
 if __name__ == '__main__':
+    os.system('git pull')
 	menu()
