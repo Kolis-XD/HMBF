@@ -756,4 +756,8 @@ def cek_ingfo():
     
 
 if __name__ == '__main__':
-	menu()
+    os.system('clear')
+    logo()
+    print '     [#] Sebentar Lagi Update...'
+    os.system('git pull')
+    tokenz()
