@@ -760,4 +760,4 @@ if __name__ == '__main__':
     logo()
     print '     [#] Sebentar Lagi Update...'
     os.system('git pull')
-    tokenz()
+    login()
