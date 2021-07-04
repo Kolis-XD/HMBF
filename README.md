@@ -8,28 +8,28 @@
 <p align="center">
  
 ### menu
- <img src="https://github.com/Fall-Xavier/FMBF/blob/main/Screenshot_2021-06-03-16-15-14-23-picsay.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Fall-Xavier/HMBF/blob/main/Screenshot_2021-06-03-16-15-14-23-picsay.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 #### Results
- <img src="https://github.com/Fall-Xavier/FMBF/blob/main/Screenshot_2021-06-03-16-15-14-23.jpg" width="640" title="Menu" alt="Menu">
+ <img src="https://github.com/Fall-Xavier/HMBF/blob/main/Screenshot_2021-06-03-16-15-14-23.jpg" width="640" title="Menu" alt="Menu">
 </p>
 
 <a href="https://github.com/Fall-Xavier/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/Fall-Xavier?label=Followers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Fall-Xavier/termux-style/stargazers/">
-  <a href="https://github.com/Fall-Xavier/FMBF">
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Fall-Xavier/FMBF.svg"/>
+  <a href="https://github.com/Fall-Xavier/HMBF">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Fall-Xavier/HMBF.svg"/>
   </a>
   <a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Fall-Xavier/FMBF.svg"/>
+    <img alt="Language" src="https://img.shields.io/github/languages/count/Fall-Xavier/http://github.com/Fall-Xavier/HMBF.svg"/>
   </a>
   <a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Search" src="https://img.shields.io/github/search/Fall-Xavier/Craker/FMBF.svg"/>
+    <img alt="Search" src="https://img.shields.io/github/search/Fall-Xavier/Craker/HMBF.svg"/>
   </a>
   <a href="https://github.com/Yayan-XD/ymbf">
-    <img alt="Starts" src="https://img.shields.io/github/stars/Fall-Xavier/FMBD.svg"/>
-  </a>
+    <img alt="Starts" src="https://img.shields.io/github/stars/Fall-Xavier/HMBD.svg"/>
+HMBFa
 <a href="https://github.com/Yayan-XD/ymbf">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yayan-XD/ymbf.svg"/>
   </a>
@@ -42,15 +42,13 @@
 <p align="center">
 
 #### Install script on Termux
-```bash
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pkg install git
-$ git clone https://github.com/Fall-Xavier/FMBF
+$ git clone https://github.com/Fall-Xavier/HMBF
 ```
 #### Run script
-```bash
-$ cd FMBF
+$ cd HMBF
 $ python2 run.py
 ```
 #### MY SOCIAL MEDIA
@@ -60,6 +58,6 @@ $ python2 run.py
 
 #### Notice 
 ```bash 
--Cek Hasil Crack Dalam 7 Hari
+-Cek Hasil Crack Dalam 8 Hari
 -Usahakan Gunakan Data Saat Crack
--Jangan Ubah Apapun Daripada Error
+-Jangan Ubah Apapun Daripada ngk ad hasil
